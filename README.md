@@ -1,4 +1,5 @@
 # My Portfolio
+<<<<<<< HEAD
 
 ## About
 
@@ -31,3 +32,5 @@ An interactive student management portal dashboard built with semantic HTML5 and
 ## Author
 
 Anay Bapat
+=======
+>>>>>>> 5035a9df6cc5a1319677af63f20ed541ed4e7885
