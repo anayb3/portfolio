@@ -1,5 +1,4 @@
 # My Portfolio
-<<<<<<< HEAD
 
 ## About
 
@@ -15,22 +14,18 @@ A modern, responsive personal portfolio website built to showcase my web develop
 
 ### Project 1
 
-**Flexbox Game UI**  
 An interactive web interface designed to explore CSS Flexbox alignment properties. Features custom layout cards, dynamic flex container rules, and responsive flexbox mechanics built using clean semantic HTML and CSS.
 
-- **Live Demo:** [https://anayb3.github.io/flexbox-game-ui/](https://anayb3.github.io/flexbox-game-ui/)
-- **GitHub Repository:** [https://github.com/anayb3/flexbox-game-ui](https://github.com/anayb3/flexbox-game-ui)
+* **Live Demo:** https://anayb3.github.io/flexbox-game-ui/
+* **GitHub Repository:** https://github.com/anayb3/flexbox-game-ui
 
 ### Project 2
 
-**Student Portal**  
 An interactive student management portal dashboard built with semantic HTML5 and custom CSS. Features student profile data tables, a responsive weekly schedule timetable, and a course registration form with custom form controls and Flexbox layouts.
 
-- **Live Demo:** [https://anayb3.github.io/Student-portal/](https://anayb3.github.io/Student-portal/)
-- **GitHub Repository:** [https://github.com/anayb3/Student-portal](https://github.com/anayb3/Student-portal)
+* **Live Demo:** https://anayb3.github.io/Student-portal/
+* **GitHub Repository:** https://github.com/anayb3/Student-portal
 
 ## Author
 
-Anay Bapat
-=======
->>>>>>> 5035a9df6cc5a1319677af63f20ed541ed4e7885
+Anay
