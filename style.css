@@ -25,58 +25,83 @@ body {
   max-width: 80rem;
   width: 100%;
 }
+.hero-screen {
+  min-height: calc(100vh - 5rem);
+}
 
 @media (min-width: 1920px) {
   .portfolio-container {
-    max-width: 135rem !important;
+    max-width: 150rem !important;
   }
-
+  header nav {
+    height: 8.5rem !important;
+  }
+  .nav-logo {
+    font-size: 2.25rem !important;
+  }
+  .nav-link {
+    font-size: 1.25rem !important;
+  }
+  .cta-button {
+    font-size: 1.15rem !important;
+    padding: 1rem 2.75rem !important;
+  }
+  .hero-screen {
+    min-height: calc(100vh - 8.5rem) !important;
+  }
+  .hero-screen .inline-flex {
+    padding: 0.75rem 2.25rem !important;
+  }
+  .hero-screen .inline-flex span {
+    font-size: 1.15rem !important;
+  }
+  .hero-screen h1 {
+    font-size: 15rem !important;
+  }
   .hero-statement {
-    max-width: 60rem !important;
-    font-size: 1.75rem !important;
+    max-width: 80rem !important;
+    font-size: 2.25rem !important;
+    line-height: 1.6 !important;
   }
-
-  .section-heading, .contact-heading {
-    font-size: 3.5rem !important;
+  .hero-screen .mt-10 a {
+    font-size: 1.25rem !important;
+    padding: 1.5rem 3.25rem !important;
   }
-
-  .project-title {
-    font-size: 2.5rem !important;
-  }
-
-  .project-desc, .about-text, .contact-desc {
+  .marquee-single-track {
     font-size: 1.35rem !important;
+  }
+  .section-heading, .contact-heading {
+    font-size: 4rem !important;
+  }
+  .project-title {
+    font-size: 3rem !important;
+  }
+  .project-desc, .about-text, .contact-desc {
+    font-size: 1.6rem !important;
     line-height: 1.8 !important;
   }
-
   .about-image {
-    height: 600px !important;
+    height: 700px !important;
   }
-
   .project-image {
-    max-height: 400px !important;
+    max-height: 500px !important;
   }
-
   .project-image-wrapper {
-    padding: 2.5rem !important;
+    padding: 3rem !important;
   }
-
   .skill-pill {
-    font-size: 1rem !important;
-    padding: 12px 24px !important;
-  }
-
-  .form-input {
     font-size: 1.15rem !important;
-    padding: 18px 20px !important;
+    padding: 14px 28px !important;
   }
-
+  .form-input {
+    font-size: 1.35rem !important;
+    padding: 20px 24px !important;
+  }
   .footer-big-title {
-    font-size: 5rem !important;
+    font-size: 6rem !important;
   }
-
   .footer-email {
-    font-size: 2rem !important;
+    font-size: 2.5rem !important;
   }
 }
 
